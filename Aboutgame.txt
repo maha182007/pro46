@@ -1,0 +1,36 @@
+title : save earth alien invaders
+fighting with alien ships
+PC - fighter (spaceships)
+NPC - Alien spaceships
+background of space(image with stars)
+STORY :
+game opens with narrative that we/earth are being hit by some alien ships
+we need to prepare to fighter
+player will click on fight button to start game
+
+target: hit as many spacehips as we can
+
+Rules:
+1. PC can move left with left arrow
+2. PC can move right with right arrow
+3. PC can move Up with Up arrow
+4. PC can move down with down arrow
+5. NPC will appear randomly
+6. NPC will enter canvas from top
+7. NPC will move from top to bottom (they will have only velocity Y)
+8. PC will shoot bullets with space bar
+9. bullet touches NPC the NPC is destroyed
+10. animation for NPC changes
+11. bullet is also destroyed
+12. PC will have life
+13. if NPC touches PC then PC life will reduce
+14. if PC life === 0, game ends/over
+15. score will show how many NPC detroyed by PC (bullets touched NPC)
+
+Prerequisites:
+Images required:
+1. background
+2. PC
+3. Images for NPC
+
+
